@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["une page"]
+ :favorites ["hls__01.1_transport_urbain_-_synthèse_-_2017_1668688684905_0" "rapports" "une page"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
