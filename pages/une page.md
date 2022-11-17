@@ -1,4 +1,5 @@
 icon:: 🏫
+public:: true
 
 -
 -
